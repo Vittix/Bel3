@@ -1,0 +1,179 @@
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\Bel3 2.0.exe
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\Bel3 2.0.pdb
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\itextsharp.dll
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\itextsharp.pdfa.dll
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\itextsharp.xtra.dll
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\MySql.Data.dll
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Acconti.resources
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Bel3.resources
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Conto.resources
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Datepicker.resources
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Fattura.resources
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.FatturaoRicevuta.resources
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Prenotazione.resources
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Properties.Resources.resources
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.SpeseExtra.resources
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.TipoCamera.resources
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3 2.0.exe
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3 2.0.pdb
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\Fatture\removeme.txt
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\NoteCredito\removeme.txt
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\Ricevute\removeme.txt
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\Gest\dbconf.ini
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Arrangiamento.resources
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.editroom.resources
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Fonti.resources
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Operatori.resources
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Progressivo.resources
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Tariffe.resources
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.TariffeExtra.resources
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Tipologiaeconomica.resources
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Tipostanze.resources
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.About.resources
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.ModificaCliente.resources
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.DatabaseSettings.resources
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.notcred.resources
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Sospesi.resources
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\dbconf.ini
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3 2.0.csprojResolveAssemblyReference.cache
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3 2.0.csproj.GenerateResource.Cache
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Telefonate.resources
+C:\Users\Bel 3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3 2.0.exe
+C:\Users\Bel 3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3 2.0.pdb
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Turni.resources
+C:\Users\bel3\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\Anno\TextFile1.txt
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\Anno\TextFile1.txt
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\Fatture\removeme.txt
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\NoteCredito\removeme.txt
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\Ricevute\removeme.txt
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\dbconf.ini
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\Gest\dbconf.ini
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\Bel3 2.0.exe
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\Bel3 2.0.pdb
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\itextsharp.dll
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\itextsharp.pdfa.dll
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\itextsharp.xtra.dll
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\MySql.Data.dll
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Arrangiamento.resources
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.editroom.resources
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Fonti.resources
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Operatori.resources
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Progressivo.resources
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Tariffe.resources
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.TariffeExtra.resources
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Tipologiaeconomica.resources
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Tipostanze.resources
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.About.resources
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Acconti.resources
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Bel3.resources
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.ModificaCliente.resources
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Conto.resources
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.DatabaseSettings.resources
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Datepicker.resources
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Fattura.resources
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.FatturaoRicevuta.resources
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Telefonate.resources
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.notcred.resources
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Prenotazione.resources
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Gest.TassaDiSoggiorno.resources
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Turni.resources
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Properties.Resources.resources
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Sospesi.resources
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.SpeseExtra.resources
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.TipoCamera.resources
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Storico.resources
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3 2.0.csproj.GenerateResource.Cache
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3 2.0.exe
+C:\Users\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3 2.0.pdb
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\Anno\TextFile1.txt
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\Fatture\removeme.txt
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\NoteCredito\removeme.txt
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\Ricevute\removeme.txt
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\dbconf.ini
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\Gest\dbconf.ini
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\Bel3 2.0.exe
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\Bel3 2.0.pdb
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\itextsharp.dll
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\itextsharp.pdfa.dll
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\itextsharp.xtra.dll
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\MySql.Data.dll
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Arrangiamento.resources
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.editroom.resources
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Fonti.resources
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Operatori.resources
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Progressivo.resources
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Tariffe.resources
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.TariffeExtra.resources
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Tipologiaeconomica.resources
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Tipostanze.resources
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.About.resources
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Acconti.resources
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Bel3.resources
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.ModificaCliente.resources
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Conto.resources
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.DatabaseSettings.resources
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Datepicker.resources
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Fattura.resources
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.FatturaoRicevuta.resources
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Telefonate.resources
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Gest.Form2.resources
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.notcred.resources
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Prenotazione.resources
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Gest.PrenotazioneMultipla.resources
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Gest.TassaDiSoggiorno.resources
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Turni.resources
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Properties.Resources.resources
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Sospesi.resources
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.SpeseExtra.resources
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.TipoCamera.resources
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Storico.resources
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3 2.0.csproj.GenerateResource.Cache
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3 2.0.exe
+D:\Vittorio\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3 2.0.pdb
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3 2.0.exe
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3 2.0.pdb
+E:\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\Anno\TextFile1.txt
+E:\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\Fatture\removeme.txt
+E:\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\NoteCredito\removeme.txt
+E:\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\Ricevute\removeme.txt
+E:\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\dbconf.ini
+E:\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\Gest\dbconf.ini
+E:\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\Bel3 2.0.exe
+E:\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\Bel3 2.0.pdb
+E:\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\itextsharp.dll
+E:\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\itextsharp.pdfa.dll
+E:\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\itextsharp.xtra.dll
+E:\Dropbox\Bel3 2.0\Bel3 2.0\bin\Release\MySql.Data.dll
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3 2.0.csprojResolveAssemblyReference.cache
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Arrangiamento.resources
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.editroom.resources
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Fonti.resources
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Operatori.resources
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Progressivo.resources
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Tariffe.resources
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.TariffeExtra.resources
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Tipologiaeconomica.resources
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Tipostanze.resources
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.About.resources
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Acconti.resources
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Bel3.resources
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.ModificaCliente.resources
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Conto.resources
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.DatabaseSettings.resources
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Datepicker.resources
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Fattura.resources
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.FatturaoRicevuta.resources
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Telefonate.resources
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Gest.Form2.resources
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.notcred.resources
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Prenotazione.resources
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Gest.PrenotazioneMultipla.resources
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Gest.TassaDiSoggiorno.resources
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Turni.resources
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Properties.Resources.resources
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Sospesi.resources
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.SpeseExtra.resources
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.TipoCamera.resources
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3.Storico.resources
+E:\Dropbox\Bel3 2.0\Bel3 2.0\obj\x86\Release\Bel3 2.0.csproj.GenerateResource.Cache

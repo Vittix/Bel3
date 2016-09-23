@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D6666641-C478-4A63-9302-322F8FD7D1E8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Bel3</RootNamespace>
+    <AssemblyName>Bel3 2.0</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Gest\favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>.\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa">
+      <HintPath>.\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xtra">
+      <HintPath>.\itextsharp.xtra.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Editing\Arrangiamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Editing\Arrangiamento.designer.cs">
+      <DependentUpon>Arrangiamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Editing\editroom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Editing\editroom.designer.cs">
+      <DependentUpon>editroom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Editing\Fonti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Editing\Fonti.designer.cs">
+      <DependentUpon>Fonti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Editing\Operatori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Editing\Operatori.designer.cs">
+      <DependentUpon>Operatori.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Editing\Progressivo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Editing\Progressivo.designer.cs">
+      <DependentUpon>Progressivo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Editing\Tariffe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Editing\Tariffe.designer.cs">
+      <DependentUpon>Tariffe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Editing\TariffeExtra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Editing\TariffeExtra.designer.cs">
+      <DependentUpon>TariffeExtra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Editing\Tipologiaeconomica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Editing\Tipologiaeconomica.designer.cs">
+      <DependentUpon>Tipologiaeconomica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Editing\Tipostanze.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Editing\Tipostanze.designer.cs">
+      <DependentUpon>Tipostanze.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gest\About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gest\About.designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gest\Acconti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gest\Acconti.designer.cs">
+      <DependentUpon>Acconti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gest\Bel3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gest\Bel3.Designer.cs">
+      <DependentUpon>Bel3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gest\Class1.cs" />
+    <Compile Include="Gest\Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gest\Cliente.designer.cs">
+      <DependentUpon>Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gest\connectoToMySql.cs" />
+    <Compile Include="Gest\Conto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gest\Conto.designer.cs">
+      <DependentUpon>Conto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gest\DatabaseSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gest\DatabaseSettings.designer.cs">
+      <DependentUpon>DatabaseSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gest\Datepicker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gest\Datepicker.Designer.cs">
+      <DependentUpon>Datepicker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gest\dbsettings.cs" />
+    <Compile Include="Gest\Fattura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gest\Fattura.designer.cs">
+      <DependentUpon>Fattura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gest\FatturaoRicevuta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gest\FatturaoRicevuta.designer.cs">
+      <DependentUpon>FatturaoRicevuta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gest\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gest\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gest\Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gest\Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gest\NoteCredito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gest\NoteCredito.designer.cs">
+      <DependentUpon>NoteCredito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gest\Prenotazione.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gest\Prenotazione.Designer.cs">
+      <DependentUpon>Prenotazione.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gest\PrenotazioneMultipla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gest\PrenotazioneMultipla.Designer.cs">
+      <DependentUpon>PrenotazioneMultipla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gest\Program.cs" />
+    <Compile Include="Gest\Tassa di soggiorno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gest\Tassa di soggiorno.Designer.cs">
+      <DependentUpon>Tassa di soggiorno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gest\Turni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gest\Turni.Designer.cs">
+      <DependentUpon>Turni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Gest\Sospesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gest\Sospesi.designer.cs">
+      <DependentUpon>Sospesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gest\SpeseExtra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gest\SpeseExtra.designer.cs">
+      <DependentUpon>SpeseExtra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gest\TipoCamera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gest\TipoCamera.designer.cs">
+      <DependentUpon>TipoCamera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Storico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Storico.Designer.cs">
+      <DependentUpon>Storico.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Editing\Arrangiamento.resx">
+      <DependentUpon>Arrangiamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Editing\editroom.resx">
+      <DependentUpon>editroom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Editing\Fonti.resx">
+      <DependentUpon>Fonti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Editing\Operatori.resx">
+      <DependentUpon>Operatori.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Editing\Progressivo.resx">
+      <DependentUpon>Progressivo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Editing\Tariffe.resx">
+      <DependentUpon>Tariffe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Editing\TariffeExtra.resx">
+      <DependentUpon>TariffeExtra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Editing\Tipologiaeconomica.resx">
+      <DependentUpon>Tipologiaeconomica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Editing\Tipostanze.resx">
+      <DependentUpon>Tipostanze.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gest\About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gest\Acconti.resx">
+      <DependentUpon>Acconti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gest\Bel3.resx">
+      <DependentUpon>Bel3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gest\Cliente.resx">
+      <DependentUpon>Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gest\Conto.resx">
+      <DependentUpon>Conto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gest\DatabaseSettings.resx">
+      <DependentUpon>DatabaseSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gest\Datepicker.resx">
+      <DependentUpon>Datepicker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gest\Fattura.resx">
+      <DependentUpon>Fattura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gest\FatturaoRicevuta.resx">
+      <DependentUpon>FatturaoRicevuta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gest\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gest\Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gest\NoteCredito.resx">
+      <DependentUpon>NoteCredito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gest\Prenotazione.resx">
+      <DependentUpon>Prenotazione.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gest\PrenotazioneMultipla.resx">
+      <DependentUpon>PrenotazioneMultipla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gest\Tassa di soggiorno.resx">
+      <DependentUpon>Tassa di soggiorno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gest\Turni.resx">
+      <DependentUpon>Turni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Gest\Sospesi.resx">
+      <DependentUpon>Sospesi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gest\SpeseExtra.resx">
+      <DependentUpon>SpeseExtra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gest\TipoCamera.resx">
+      <DependentUpon>TipoCamera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Storico.resx">
+      <DependentUpon>Storico.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="dbconf.ini">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Gest\dbconf.ini">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Anno\TextFile1.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Fatture\removeme.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Gest\favicon.ico" />
+    <Content Include="NoteCredito\removeme.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\SScreen.jpg" />
+    <Content Include="Resources\sprite-phoenix.gif" />
+    <None Include="Resources\sprite-phoenix1.gif" />
+    <Content Include="Ricevute\removeme.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
